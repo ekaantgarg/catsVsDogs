@@ -1,5 +1,5 @@
 # catsVsDogs
-Convolutional Neural Net trained to recognise whether the picture given is of dog or a cat.
+Convolutional Neural Net trained to recognise whether the given picture is of dog or a cat.
 
 # Dataset
 The dataset used is the smaller version of the dataset available on kaggle. https://www.kaggle.com/c/dogs-vs-cats
