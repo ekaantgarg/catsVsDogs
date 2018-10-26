@@ -1,4 +1,4 @@
-# catsVsDogs
+# Cats vs Dogs
 Convolutional Neural Net trained to recognise whether the given picture is of dog or a cat.
 
 # Dataset
